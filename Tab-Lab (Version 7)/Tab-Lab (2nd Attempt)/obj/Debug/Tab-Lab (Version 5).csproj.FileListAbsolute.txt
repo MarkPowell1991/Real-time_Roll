@@ -1,0 +1,293 @@
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\mscorlib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\normidna.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\normnfc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\normnfd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.g.cs
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.baml
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Final Version)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (Final Version)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (Final Version)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Final Version)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Final Version)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.g.cs
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.baml
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\mscorlib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\normidna.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\normnfc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\normnfd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.g.cs
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 6)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\mscorlib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normidna.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.baml
+F:\Plymouth University\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.g.cs
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.baml
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.g.cs
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.g.cs
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.g.cs
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\mscorlib.dll
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normidna.nlp
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfc.nlp
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfd.nlp
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkc.nlp
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkd.nlp
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.baml
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.baml
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.dll
+E:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.xml
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.dll
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.exe
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.xml
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.baml
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.g.cs
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.g.cs
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.g.cs
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollMIDIViewer.baml
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\PianoRoll.baml
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Forms.SheetMusicForm.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+H:\Uni Work\Year 3\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.dll
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.exe
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.xml
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojResolveAssemblyReference.cache
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.baml
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.g.cs
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Toub.Sound.Midi.dll
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\RollCreaterControls.g.cs
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\RollCreaterControls.baml
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\MyPianoRollMIDIViewer.g.cs
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\PianoRoll.g.cs
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\MyPianoRollMIDIViewer.baml
+C:\Users\Markus\Documents\University Work - Quick Build\Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\PianoRoll.baml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Interop.DXTRANSLib.dll
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.ResolveComReference.cache
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\clef.gif
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.dll
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\Midi.xml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\bin\Debug\ScoreWriter.pdb
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.baml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MIDIViewer.g.cs
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.g.cs
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\MyPianoRollMIDIViewer.g.cs
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\PianoRoll.g.cs
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\RollCreaterControls.g.cs
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_Content.g.cs
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.cache
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt)_MarkupCompile.lref
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\MyPianoRollCreator.baml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\MyPianoRollMIDIViewer.baml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\Redundant ControlPanels\PianoRoll.baml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\ControlPanels\RollCreaterControls.baml
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).g.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csprojAssemblyReference.cache
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.CoreCompileInputs.cache
+F:\Plymouth University\Year 3\Project\Final Version Of Final Project\Tab-Lab (Version 7)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (Version 5).csproj.CopyComplete

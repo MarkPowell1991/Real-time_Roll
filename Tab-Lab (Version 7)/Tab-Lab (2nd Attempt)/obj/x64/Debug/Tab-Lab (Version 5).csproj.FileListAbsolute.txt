@@ -1,0 +1,9 @@
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\x64\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.ControlPanels.StaffViewer.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\x64\Debug\Tab-Lab (Version 5).csproj.GenerateResource.Cache

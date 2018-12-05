@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01D7D15F-0D33-434D-95BB-9C5171D1D481}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tab_Lab__2nd_Attempt_</RootNamespace>
+    <AssemblyName>Tab-Lab %282nd Attempt%29</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ManagedBass">
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\Bass Pitch Detector\PitchTracker-master\PitchTracker-master\bin\Debug\ManagedBass.dll</HintPath>
+    </Reference>
+    <Reference Include="Midi">
+      <HintPath>..\..\midi-dot-net_1.1.0\Midi.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Common, Version=1.3.1.18503, Culture=neutral, PublicKeyToken=7fed53ada5b92263, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Common.WinForms">
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Common.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Diagramming, Version=6.4.2.32988, Culture=neutral, PublicKeyToken=a0d18338041985ba, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Diagramming.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Diagramming.WinForms">
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Diagramming.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Diagramming.WinForms.NodeListView">
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Diagramming.WinForms.NodeListView.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Licensing, Version=1.0.2.23064, Culture=neutral, PublicKeyToken=9d02e21d957ddaef, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="MindFusion.Svg, Version=1.2.1.18160, Culture=neutral, PublicKeyToken=33101cdb8744b4d7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\References\MindFusion.Svg.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\..\..\NAudio\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="PitchTracker">
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Pitch-Tracker\PitchTracker\bin\Debug\PitchTracker.exe</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="ScoreWriter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\ScoreWriter (java)\bin\Debug\ScoreWriter.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Toub.Sound.Midi">
+      <HintPath>..\..\Toub.Sound.Midi.dll</HintPath>
+    </Reference>
+    <Reference Include="VoiceRecorder.Audio">
+      <HintPath>F:\Hybrid Drive\University Work\Year 3\Project\Tab-Lab Tutorials &amp; Learning\VoiceRecorderWithAutoTune\VoiceRecorder.Audio.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Adding Notes\Recorder.cs" />
+    <Compile Include="Classes\AudioToMIDIConversion.cs" />
+    <Compile Include="Classes\Program.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ControlPanels\MIDIViewer.xaml.cs">
+      <DependentUpon>MIDIViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanels\MyPianoRollCreator.xaml.cs">
+      <DependentUpon>MyPianoRollCreator.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanels\Redundant ControlPanels\MyPianoRollMIDIViewer.xaml.cs">
+      <DependentUpon>MyPianoRollMIDIViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanels\Redundant ControlPanels\PianoRoll.xaml.cs">
+      <DependentUpon>PianoRoll.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanels\RollCreaterControls.xaml.cs">
+      <DependentUpon>RollCreaterControls.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DeviceSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DeviceSettingsForm.Designer.cs">
+      <DependentUpon>DeviceSettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ControlPanels\RecordControlPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlPanels\RecordControlPanel.Designer.cs">
+      <DependentUpon>RecordControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Settings.cs" />
+    <Compile Include="ControlPanels\SettingsControlPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlPanels\SettingsControlPanel.Designer.cs">
+      <DependentUpon>SettingsControlPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanels\TabMakerControlPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ControlPanels\TabMakerControlPanel.Designer.cs">
+      <DependentUpon>TabMakerControlPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\DeviceSettingsForm.resx">
+      <DependentUpon>DeviceSettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ControlPanels\RecordControlPanel.resx">
+      <DependentUpon>RecordControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlPanels\SettingsControlPanel.resx">
+      <DependentUpon>SettingsControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlPanels\TabMakerControlPanel.resx">
+      <DependentUpon>TabMakerControlPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Record-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rewind-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fast Forward-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mute-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speaker-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold Chrome Effect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\les paul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blank-tab.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank-whole-guitar-fretboard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank fretboard - resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank fretboard - Settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank fretboard - Tab-Creator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blank fretboard - Music Recorder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ControlPanels\Dynamic Panel Controls\" />
+    <Folder Include="ControlPanels\XAML UserControls\" />
+    <Folder Include="Core\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="clef.gif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\clef.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="DXTRANSLib">
+      <Guid>{54314D1D-35FE-11D1-81A1-0000F87557DB}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="ControlPanels\MIDIViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ControlPanels\MyPianoRollCreator.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ControlPanels\Redundant ControlPanels\MyPianoRollMIDIViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ControlPanels\Redundant ControlPanels\PianoRoll.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ControlPanels\RollCreaterControls.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

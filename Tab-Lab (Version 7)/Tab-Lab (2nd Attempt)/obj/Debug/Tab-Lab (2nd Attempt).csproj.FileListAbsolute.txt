@@ -1,0 +1,56 @@
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).csprojResolveAssemblyReference.cache
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).csproj.GenerateResource.Cache
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\NAudio.dll
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\NAudio.xml
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Hybrid Drive\University Work\Year 3\Project\Tab-Labe - From Scratch\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMaker.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\mscorlib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normidna.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).csproj.GenerateResource.Cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).csprojResolveAssemblyReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).csprojResolveAssemblyReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).csproj.GenerateResource.Cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.xml
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.xml
+F:\Plymouth University\Year 3\Project\Tab-Lab (2nd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (3rd Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (3rd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (3rd Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb

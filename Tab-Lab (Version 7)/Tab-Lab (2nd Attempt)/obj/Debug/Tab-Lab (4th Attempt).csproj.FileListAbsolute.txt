@@ -1,0 +1,76 @@
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\VoiceRecorder.Audio.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.xml
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\VoiceRecorder.Audio.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csprojResolveAssemblyReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csproj.GenerateResource.Cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.xml
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.pdb
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\VoiceRecorder.Audio.pdb
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csprojResolveAssemblyReference.cache
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+E:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csproj.GenerateResource.Cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\mscorlib.dll
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.xml
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\VoiceRecorder.Audio.pdb
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normidna.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkc.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\bin\Debug\normnfkd.nlp
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csprojResolveAssemblyReference.cache
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+F:\Plymouth University\Year 3\Project\Tab-Lab (4th Attempt)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csproj.GenerateResource.Cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe.config
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\Tab-Lab (2nd Attempt).pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.exe
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\VoiceRecorder.Audio.dll
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\ManagedBass.xml
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\PitchTracker.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\bin\Debug\VoiceRecorder.Audio.pdb
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csprojResolveAssemblyReference.cache
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.DeviceSettingsForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.MainForm.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.Properties.Resources.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.RecordControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.SettingsControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab_Lab__2nd_Attempt_.TabMakerControlPanel.resources
+G:\Plymouth University\Year 3\Project\Tab-Lab (Version 5)\Tab-Lab (2nd Attempt)\obj\Debug\Tab-Lab (4th Attempt).csproj.GenerateResource.Cache
